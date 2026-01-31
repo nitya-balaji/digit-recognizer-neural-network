@@ -30,6 +30,12 @@ The model is trained on the **MNIST dataset**, a collection of 70,000 handwritte
 
 The neural network achieves approximately **85.20% accuracy** on the validation set, demonstrating that even a simple from-scratch implementation can achieve reasonable performance on this classic machine learning problem.
 
+##Math and Rough Work
+
+For a detailed breakdown of the calculus behind backpropagation, along with all the relevant derivations, notes, and rough work that went into building this project, you can find my notes here: [Backpropagation Calculus + Digit Recognizer Neural Network - Math & Notes](https://drive.google.com/file/d/16RVa49mzZHu2DrikHk-R9L2lOwAC_yRH/view?usp=sharing)
+
 ## Inspiration
 
 This project was inspired by [3Blue1Brown's neural network series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), which provides excellent visual explanations of how neural networks learn through gradient descent and backpropagation. 
+
+
