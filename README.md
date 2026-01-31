@@ -32,4 +32,4 @@ The neural network achieves approximately **85.20% accuracy** on the validation 
 
 ## Inspiration
 
-This project was inspired by [3Blue1Brown's excellent neural network series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), which provides exceptional visual explanations of how neural networks learn through gradient descent and backpropagation. 
+This project was inspired by [3Blue1Brown's neural network series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), which provides excellent visual explanations of how neural networks learn through gradient descent and backpropagation. 
